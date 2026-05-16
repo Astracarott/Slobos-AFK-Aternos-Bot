@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Astracarott.aternos.me:39980",
+    "ip": "Astracarott.aternos.me",
     "port": 39980,
     "version": "1.21.1",
     "try-creative": false
